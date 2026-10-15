@@ -3,4 +3,9 @@
 venv/
 __pycache__/
 
-#arcivos del siatema
+#arcivos del sistema operativo y VS Code
+.DS_Store
+.vscode/
+
+#Datos pesados locales (los datos se descargan o se documentan, bo se suben al repo si pesan mucho) 
+*.csv
