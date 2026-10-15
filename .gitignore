@@ -1,0 +1,6 @@
+#entornos virtuales
+.venv/
+venv/
+__pycache__/
+
+#arcivos del siatema
